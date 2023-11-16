@@ -1,0 +1,25 @@
+:root {
+
+	/*start font variables*/
+
+	--red: hsl(0, 100%, 74%) ;
+	--green: hsl(154, 59%, 51%);
+	--blue: hsl(248, 32%, 49%);
+	--dark-blue: hsl(249, 10%, 26%) ;
+	--grayish-blue: hsl(246, 25%, 77%);
+	--white:#fff;
+
+	/*end font variables*/
+
+	/*start font variables*/
+
+	--ff: 'Poppins', sans-serif;
+	--fs:16px;
+	--fs-s:400;
+	--fs-m:500;
+	--fs-l:600;
+	--fs-g:700;
+
+	/*end font variables*/
+
+}
